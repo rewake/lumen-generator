@@ -1,5 +1,5 @@
 {
-    "name": "flipbox/lumen-generator",
+    "name": "rewake/lumen-generator",
     "description": "A Lumen Generator You Are Missing",
     "type": "library",
     "require": {
